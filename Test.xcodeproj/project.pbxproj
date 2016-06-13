@@ -16,6 +16,7 @@
 		0454DFD11D0EADAC0020D2D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0454DFCF1D0EADAC0020D2D5 /* LaunchScreen.storyboard */; };
 		0454DFDC1D0EADAC0020D2D5 /* TestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0454DFDB1D0EADAC0020D2D5 /* TestTests.m */; };
 		0454DFE71D0EADAC0020D2D5 /* TestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0454DFE61D0EADAC0020D2D5 /* TestUITests.m */; };
+		0454DFF61D0EAEF10020D2D5 /* BViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0454DFF51D0EAEF10020D2D5 /* BViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		0454DFE21D0EADAC0020D2D5 /* TestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0454DFE61D0EADAC0020D2D5 /* TestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestUITests.m; sourceTree = "<group>"; };
 		0454DFE81D0EADAC0020D2D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0454DFF41D0EAEF10020D2D5 /* BViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BViewController.h; sourceTree = "<group>"; };
+		0454DFF51D0EAEF10020D2D5 /* BViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +110,8 @@
 				0454DFC21D0EADAC0020D2D5 /* AppDelegate.m */,
 				0454DFC41D0EADAC0020D2D5 /* ViewController.h */,
 				0454DFC51D0EADAC0020D2D5 /* ViewController.m */,
+				0454DFF41D0EAEF10020D2D5 /* BViewController.h */,
+				0454DFF51D0EAEF10020D2D5 /* BViewController.m */,
 				0454DFC71D0EADAC0020D2D5 /* Main.storyboard */,
 				0454DFCD1D0EADAC0020D2D5 /* Assets.xcassets */,
 				0454DFCF1D0EADAC0020D2D5 /* LaunchScreen.storyboard */,
@@ -276,6 +281,7 @@
 				0454DFC61D0EADAC0020D2D5 /* ViewController.m in Sources */,
 				0454DFCC1D0EADAC0020D2D5 /* Test.xcdatamodeld in Sources */,
 				0454DFC31D0EADAC0020D2D5 /* AppDelegate.m in Sources */,
+				0454DFF61D0EAEF10020D2D5 /* BViewController.m in Sources */,
 				0454DFC01D0EADAC0020D2D5 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
